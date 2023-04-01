@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/grammar/C.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/grammar/JavaParser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Administrator\Desktop\Project\Plagiarism-Server-master\src\main\java\com\plagiarismserver\springrest\antlr\antlrjava" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/grammar/Python3Lexer.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Administrator\Desktop\Project\Plagiarism-Server-master\src\main\java\com\plagiarismserver\springrest\antlr\antlrpython" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/grammar/Python3Parser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Administrator\Desktop\Project\Plagiarism-Server-master\src\main\java\com\plagiarismserver\springrest\antlr\antlrpython" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/grammar/Python3.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Administrator\Desktop\Project\Plagiarism-Server-master\src\main\java\com\plagiarismserver\springrest\antlr\antlrpython" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/grammar/PythonParser.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Administrator\Desktop\Project\Plagiarism-Server-master\src\main\java\com\plagiarismserver\springrest\antlr\antlrpython" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/grammar/PythonLexer.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Administrator\Desktop\Project\Plagiarism-Server-master\src\main\java\com\plagiarismserver\springrest\antlr\antlrpython" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="antlrpython" />
+          <option name="language" value="" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>
